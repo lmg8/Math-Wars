@@ -11,3 +11,8 @@ This App will be used particularly during the spare time of a grade two student 
 The main menu showcases three buttons which the player can click to interact with. The play button goes directly to the game. The help button goes to the instructions screen. The exit button closes the app all together. If the help button is clicked, it will show the instructions of the game. The player can either choose to play the game by clicking the play button or go back to the main menu by clicking the back button. If the play button is clicked, the player is led to the game screen where the game starts. It will have three buttons for the player to click. The question will be clearly shown at the middle. The player must click one of the answers. If they get it wrong, BB8 will move. If they get it right, BB8 will not move. The player will lose if they get three wrong and will win if they get eight. If the right button is pressed, the button will turn green and go back to original blue. If the wrong button is pressed, the button will turn red and go back to blue. When the game is over, it will either show the screen of BB8 being captured by Kylo Ren (lose) or Rey defeating Kylo Ren (win). The player has the ability to click restart which will lead back to the main menu. The main menu plays the Star Wars themed song, the game plays intense background music and the game over screen plays a background music to showcase that the game is over.
 
 
+# Fair Use Act Disclaimer
+
+This desktop app is for educational purposes only and contains copyrighted material whose use has not been specifically authorized by the copyright owner. 
+
+Models, music, and sound are property of and all rights reserved by STAR WARS © & ™ LUCASFILM LTD.
