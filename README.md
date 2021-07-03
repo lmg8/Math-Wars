@@ -14,5 +14,8 @@ The main menu showcases three buttons which the player can click to interact wit
 # Fair Use Act Disclaimer
 
 This desktop app is for educational purposes only and contains copyrighted material whose use has not been specifically authorized by the copyright owner. 
+Copyright Disclaimer Under Section 107 of the Copyright Act in 1976; Allowance is made for "Fair Use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+
+All rights and credit go directly to its rightful owners. No copyright infringement intended.
 
 Models, music, and sound are property of and all rights reserved by STAR WARS © & ™ LUCASFILM LTD.
